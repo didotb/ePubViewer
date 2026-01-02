@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is a fork of [pgaskin's repo](https://github.com/pgaskin/ePubViewer)
+
 # ePubViewer
 
 ## About
